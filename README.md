@@ -1,7 +1,7 @@
 ## Olá, olá 👋  
 
 <p align="justify">
-  <img align="right" width="430" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hosanafg&langs_count=7&theme=transparent&hide_border=true&hide_title=true&hide_percentage=true" alt="Top Langs" hspace="10">
+  <img align="right" width="430" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hosanafg&langs_count=7&theme=transparent&hide_border=true&hide_title=true&hide_percentage=true" hspace="10">
   Atualmente, sou estudante do S3 de ciência da computação, mas já sou formada em arquitetura e urbanismo com mestrado em modelagem e design da informação.  
 </p> <br clear="right"/>
 
