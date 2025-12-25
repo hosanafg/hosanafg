@@ -2,7 +2,7 @@
 <B>hello, hello 👋</B>  
 </p>
   
-Currently, I am a third-year computer science student,   
+Currently, I am a second-year computer science student,   
 but I already have a degree in architecture and urban planning and a master's degree in   
 information modeling and design.  
 </p>
