@@ -1,6 +1,6 @@
 ## Olá, olá 👋  
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td middle="top" align="justify" width="50%">
       Atualmente, sou estudante do S3 de ciência da computação, mas já sou formada em arquitetura e urbanismo com mestrado em modelagem e design da informação.
