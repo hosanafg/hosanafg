@@ -1,7 +1,10 @@
 <samp>  
 <B>hello, hello 👋</B>  
-<div style="float: left;">   <samp>  
-  Currently, I am a third-year computer science student, but I already have a degree in architecture and urban planning and a master's degree in information modeling and design.  
+</p>
+  
+Currently, I am a third-year computer science student,   
+but I already have a degree in architecture and urban planning and a master's degree in   
+information modeling and design.  
 </p>
 ⚡ Fun fact: ich spreche ein bisschen deutsch und lingua brasileira de sinais (LIBRAS).    
 
