@@ -1,10 +1,21 @@
-## Olá, olá 👋  
+<samp>  
+<B>hello, hello 👋</B>  
+<div style="float: left;">   <samp>  
+  Currently, I am a third-year computer science student, but I already have a degree in architecture and urban planning and a master's degree in information modeling and design.  
+</p>
+⚡ Fun fact: ich spreche ein bisschen deutsch und lingua brasileira de sinais (LIBRAS).    
 
-<p align="justify">
-  <img align="right" width="430" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hosanafg&langs_count=7&theme=transparent&hide_border=true&hide_title=true&hide_percentage=true" hspace="10">
-  Atualmente, sou estudante do S3 de ciência da computação, mas já sou formada em arquitetura e urbanismo com mestrado em modelagem e design da informação.  
-</p> <br clear="right"/>
+### main interests
+> data science and analytics  
+computer vision and image processing  
+low level coding  
+cybersecurity  
 
+### top langs 
+<img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30" height="30"/>  <img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="30" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" widht="30" height="30"/>
+          
+          
+          
 <!--
 **hosanafg/hosanafg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +32,5 @@ Here are some ideas to get you started:
 -->
 
 
-
-## Estou aprendendo
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img loading ="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
+### now learning
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>  <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/> <img loading ="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" height="30" />
