@@ -9,8 +9,8 @@ information modeling and design.
 ⚡ Fun fact: ich spreche ein bisschen deutsch und lingua brasileira de sinais (LIBRAS).    
 
 ### main interests
-> data science and analytics  
-computer vision and image processing  
+> computer vision and image processing
+data science and analytics  
 low level coding  
 cybersecurity  
 
