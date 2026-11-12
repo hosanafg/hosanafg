@@ -11,8 +11,7 @@ information modeling and design.
 ### main interests
 > computer vision and image processing  
 data science and analytics  
-low level coding  
-cybersecurity  
+interested in low level coding  
 
 ### top langs 
 <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30" height="30"/>  <img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="30" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" widht="30" height="30"/>
